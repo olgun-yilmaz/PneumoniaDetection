@@ -1,0 +1,9 @@
+.idea/
+
+getStarted/
+res/
+
+config.py
+
+__pycache__
+desktop.ini
